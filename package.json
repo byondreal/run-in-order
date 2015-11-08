@@ -1,0 +1,27 @@
+{
+  "name": "run-in-order",
+  "version": "1.0.0",
+  "description": "Run a list of JavaScript sequence functions in order, with custom context and arguments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/byondreal/run-in-order.git"
+  },
+  "keywords": [
+    "js",
+    "sync",
+    "sequence",
+    "functions",
+    "run",
+    "order"
+  ],
+  "author": "Anup Bishnoi <pixelsallover@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byondreal/run-in-order/issues"
+  },
+  "homepage": "https://github.com/byondreal/run-in-order"
+}
